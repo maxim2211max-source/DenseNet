@@ -5,6 +5,8 @@
 
 
 <img src="https://github.com/mazda-01/DenseNet/blob/main/images/s1.png" alt="Пример птицы из датасета" width="850">
+
+
 ![3](https://github.com/mazda-01/DenseNet/blob/main/images/s2.png)
 
 
