@@ -4,10 +4,10 @@
 
 
 
-<img src="https://github.com/mazda-01/DenseNet/blob/main/images/s1.png" alt="Пример птицы из датасета" width="850">
+<img src="https://github.com/mazda-01/DenseNet/blob/main/images/s1.png" alt="Пример птицы из датасета" width="750">
 
+<img src="https://github.com/mazda-01/DenseNet/blob/main/images/s2.png" alt="2" width="750">
 
-![3](https://github.com/mazda-01/DenseNet/blob/main/images/s2.png)
 
 
 В данном проекте мы классифицировали погодные явления! Мы применили все наши новообретенные знания в области CV  и обучения модделей. Определенно стоит подчернкуть, что ключевым этапом *успеха* для нас стала командная работа, четкий план действий и глубокое понимание пройденого материала.   
