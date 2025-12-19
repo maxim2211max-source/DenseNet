@@ -4,6 +4,7 @@
 
 
 ![2](https://github.com/mazda-01/DenseNet/blob/main/images/s1.png)
+<img src="https://github.com/mazda-01/DenseNet/blob/main/images/s1.png" alt="Пример птицы из датасета" width="250">
 ![3](https://github.com/mazda-01/DenseNet/blob/main/images/s2.png)
 
 
@@ -33,8 +34,8 @@
 
 Created by:
 
-mazda-01
-maxim2211max-source 
+mazda-01 |
+| maxim2211max-source 
 
 Если Вас заинтересовали специалисты выполнившие данный проект. Наше резюме можно найти по [ссылке](https://www.reddit.com/r/kingkong/comments/mr3bxw/mr_kong_flipping_you_off/?tl=ru)
 
